@@ -1,0 +1,9 @@
+4
+Stone
+2000
+Flass
+100500
+Tabs
+5000
+Raptor
+55000
